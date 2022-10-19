@@ -8,7 +8,7 @@ public class ConnectionFactory {
 	
 	private String url = "jdbc:mysql://localhost/db_senhas?useTimeZone=true&serverTimezone=UTC";
 	private String user = "root";
-	private String password = "#Marilyn666";
+	private String password = "********"; //senha confidencial
 	
 	Connection con;
 	
